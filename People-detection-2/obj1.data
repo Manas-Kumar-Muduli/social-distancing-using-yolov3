@@ -1,0 +1,5 @@
+classes= 1
+train= /content/drive/MyDrive/Dataset/People-detection-2/People-detection-2/train.txt
+valid= /content/drive/MyDrive/Dataset/People-detection-2/People-detection-2/text.txt
+names= /content/drive/MyDrive/Dataset/People-detection-2/People-detection-2/obj.names
+backup= /content/drive/MyDrive/YOLOv3/backup
